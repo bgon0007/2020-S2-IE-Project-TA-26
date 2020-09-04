@@ -1,0 +1,33 @@
+{
+    "config": {
+        "cache-files-ttl": 0,
+        "discard-changes": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": false,
+    "provide": {
+        "heroku-sys\/heroku": "18.2020.09.04"
+    },
+    "require": {
+        "heroku-sys\/php": "^7.0.0",
+        "heroku-sys\/apache": "^2.4.10",
+        "heroku-sys\/nginx": "^1.8.0"
+    },
+    "require-dev": {},
+    "repositories": [
+        {
+            "packagist": false
+        },
+        {
+            "type": "path",
+            "url": "\/tmp\/codon\/tmp\/buildpacks\/49830eb7d567d754bbb44099860d3e4d9f3cdaaf\/support\/installer\/",
+            "options": {
+                "symlink": false
+            }
+        },
+        {
+            "type": "composer",
+            "url": "https:\/\/lang-php.s3.amazonaws.com\/dist-heroku-18-stable\/"
+        }
+    ]
+}
