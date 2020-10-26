@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<suburbs><![CDATA[Aberfeldy]]></suburbs>
+		<postcode><![CDATA[3825]]></postcode>
+		<soil_type><![CDATA[Warragul with Silver Creek]]></soil_type>
+		<geology><![CDATA[Tertiary Basalts & Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Brown and Yellow Kandosols or Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[6.1]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Agnes]]></suburbs>
+		<postcode><![CDATA[3962]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Allambee]]></suburbs>
+		<postcode><![CDATA[3823]]></postcode>
+		<soil_type><![CDATA[Yarragon]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) sediments]]></geology>
+		<dominantsoil><![CDATA[Brown Dermosols and Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[6.2]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Almurta]]></suburbs>
+		<postcode><![CDATA[3979]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Anderson]]></suburbs>
+		<postcode><![CDATA[3995]]></postcode>
+		<soil_type><![CDATA[Leongatha Sth]]></soil_type>
+		<geology><![CDATA[Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Humose-Acidic, Dermosolic, Redoxic HYDROSOL]]></dominantsoil>
+		<soil_ph><![CDATA[5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Arawata]]></suburbs>
+		<postcode><![CDATA[3951]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Archies Creek]]></suburbs>
+		<postcode><![CDATA[3995]]></postcode>
+		<soil_type><![CDATA[Leongatha Sth]]></soil_type>
+		<geology><![CDATA[Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Humose-Acidic, Dermosolic, Redoxic HYDROSOL]]></dominantsoil>
+		<soil_ph><![CDATA[5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Athlone]]></suburbs>
+		<postcode><![CDATA[3818]]></postcode>
+		<soil_type><![CDATA[Ripplebrook]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Redoxic Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Bass]]></suburbs>
+		<postcode><![CDATA[3991]]></postcode>
+		<soil_type><![CDATA[Dalmore]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Aquic and Black Vertosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.3]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Bena]]></suburbs>
+		<postcode><![CDATA[3946]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Berrys Creek]]></suburbs>
+		<postcode><![CDATA[3953]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Bona Vista]]></suburbs>
+		<postcode><![CDATA[3820]]></postcode>
+		<soil_type><![CDATA[Warragul]]></soil_type>
+		<geology><![CDATA[Tertiary Basalts]]></geology>
+		<dominantsoil><![CDATA[Acidic Red Ferrosols]]></dominantsoil>
+		<soil_ph><![CDATA[6.1]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Boolarra]]></suburbs>
+		<postcode><![CDATA[3870]]></postcode>
+		<soil_type><![CDATA[Warragul with Silver Creek]]></soil_type>
+		<geology><![CDATA[Tertiary Basalts & Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Brown and Yellow Kandosols or Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[6.1]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Boolarra South]]></suburbs>
+		<postcode><![CDATA[3870]]></postcode>
+		<soil_type><![CDATA[Warragul with Silver Creek]]></soil_type>
+		<geology><![CDATA[Tertiary Basalts & Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Brown and Yellow Kandosols or Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[6.1]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Brandy Creek]]></suburbs>
+		<postcode><![CDATA[3821]]></postcode>
+		<soil_type><![CDATA[riverine]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Budgeree]]></suburbs>
+		<postcode><![CDATA[3870]]></postcode>
+		<soil_type><![CDATA[Warragul with Silver Creek]]></soil_type>
+		<geology><![CDATA[Tertiary Basalts & Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Brown and Yellow Kandosols or Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[6.1]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Buffalo]]></suburbs>
+		<postcode><![CDATA[3958]]></postcode>
+		<soil_type><![CDATA[Leongatha Sth]]></soil_type>
+		<geology><![CDATA[Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Humose-Acidic, Dermosolic, Redoxic HYDROSOL]]></dominantsoil>
+		<soil_ph><![CDATA[5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Buln Buln]]></suburbs>
+		<postcode><![CDATA[3821]]></postcode>
+		<soil_type><![CDATA[riverine]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Callignee]]></suburbs>
+		<postcode><![CDATA[3844]]></postcode>
+		<soil_type><![CDATA[sand dune]]></soil_type>
+		<geology><![CDATA[Pleistocene to Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Rudosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Cape Woolamai]]></suburbs>
+		<postcode><![CDATA[3925]]></postcode>
+		<soil_type><![CDATA[Woolamai ]]></soil_type>
+		<geology><![CDATA[Devonian granites and Recent aeolian sediments]]></geology>
+		<dominantsoil><![CDATA[deep sands]]></dominantsoil>
+		<soil_ph><![CDATA[6.1]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Childers]]></suburbs>
+		<postcode><![CDATA[3824]]></postcode>
+		<soil_type><![CDATA[Yarragon]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) sediments]]></geology>
+		<dominantsoil><![CDATA[Brown Dermosols and Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[6.2]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Churchill]]></suburbs>
+		<postcode><![CDATA[3842]]></postcode>
+		<soil_type><![CDATA[Boolarra with Morwell]]></soil_type>
+		<geology><![CDATA[Tertiary (Pliocene) sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Yellow and Grey Dermosols & Kurosols/Acidic Yellow and Grey Kurosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Cloverlea]]></suburbs>
+		<postcode><![CDATA[3822]]></postcode>
+		<soil_type><![CDATA[Yarragon]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) sediments]]></geology>
+		<dominantsoil><![CDATA[Brown Dermosols and Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[6.2]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Coalville]]></suburbs>
+		<postcode><![CDATA[3825]]></postcode>
+		<soil_type><![CDATA[Leongatha Sth]]></soil_type>
+		<geology><![CDATA[Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Humose-Acidic, Dermosolic, Redoxic HYDROSOL]]></dominantsoil>
+		<soil_ph><![CDATA[5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Corinella]]></suburbs>
+		<postcode><![CDATA[3984]]></postcode>
+		<soil_type><![CDATA[Monomeith with sandy rises]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) sediments]]></geology>
+		<dominantsoil><![CDATA[Grey, Yellow and Brown Sodosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Coronet Bay]]></suburbs>
+		<postcode><![CDATA[3984]]></postcode>
+		<soil_type><![CDATA[Monomeith with sandy rises]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) sediments]]></geology>
+		<dominantsoil><![CDATA[Grey, Yellow and Brown Sodosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Cowes]]></suburbs>
+		<postcode><![CDATA[3922]]></postcode>
+		<soil_type><![CDATA[Woolamai ]]></soil_type>
+		<geology><![CDATA[Devonian granites and Recent aeolian sediments.]]></geology>
+		<dominantsoil><![CDATA[deep sands]]></dominantsoil>
+		<soil_ph><![CDATA[6.1]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Crossover]]></suburbs>
+		<postcode><![CDATA[3821]]></postcode>
+		<soil_type><![CDATA[riverine]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Dalyston]]></suburbs>
+		<postcode><![CDATA[3992]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Darnum]]></suburbs>
+		<postcode><![CDATA[3822]]></postcode>
+		<soil_type><![CDATA[Yarragon]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) sediments]]></geology>
+		<dominantsoil><![CDATA[Brown Dermosols and Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[6.2]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Delburn]]></suburbs>
+		<postcode><![CDATA[3871]]></postcode>
+		<soil_type><![CDATA[Silver Creek with Warragul]]></soil_type>
+		<geology><![CDATA[Tertiary sediments & Tertiary basalts]]></geology>
+		<dominantsoil><![CDATA[ Brown and Yellow Kandosols or Dermosols ]]></dominantsoil>
+		<soil_ph><![CDATA[6.1]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Dollar]]></suburbs>
+		<postcode><![CDATA[3871]]></postcode>
+		<soil_type><![CDATA[Silver Creek with Warragul]]></soil_type>
+		<geology><![CDATA[Tertiary sediments & Tertiary basalts]]></geology>
+		<dominantsoil><![CDATA[ Brown and Yellow Kandosols or Dermosols ]]></dominantsoil>
+		<soil_ph><![CDATA[6.1]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Driffield]]></suburbs>
+		<postcode><![CDATA[3840]]></postcode>
+		<soil_type><![CDATA[Boolarra with Morwell]]></soil_type>
+		<geology><![CDATA[Tertiary (Pliocene) sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Yellow and Grey Dermosols & Kurosols/Acidic Yellow and Grey Kurosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Drouin]]></suburbs>
+		<postcode><![CDATA[3818]]></postcode>
+		<soil_type><![CDATA[Ripplebrook]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Redoxic Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Drouin West]]></suburbs>
+		<postcode><![CDATA[3818]]></postcode>
+		<soil_type><![CDATA[Ripplebrook]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Redoxic Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Dumbalk]]></suburbs>
+		<postcode><![CDATA[3956]]></postcode>
+		<soil_type><![CDATA[Inverloch]]></soil_type>
+		<geology><![CDATA[Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Parapanic Podosols with Grey Kurosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.3]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Ellinbank]]></suburbs>
+		<postcode><![CDATA[3821]]></postcode>
+		<soil_type><![CDATA[riverine]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Erica]]></suburbs>
+		<postcode><![CDATA[3825]]></postcode>
+		<soil_type><![CDATA[sand dune]]></soil_type>
+		<geology><![CDATA[Pleistocene to Recent aeolian sediments]]></geology>
+		<dominantsoil><![CDATA[Aeric Podosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Ferndale]]></suburbs>
+		<postcode><![CDATA[3821]]></postcode>
+		<soil_type><![CDATA[riverine]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Fish Creek]]></suburbs>
+		<postcode><![CDATA[3959]]></postcode>
+		<soil_type><![CDATA[sand dune]]></soil_type>
+		<geology><![CDATA[Pleistocene to Recent aeolian sediments]]></geology>
+		<dominantsoil><![CDATA[Aeric Podosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Flynn]]></suburbs>
+		<postcode><![CDATA[3844]]></postcode>
+		<soil_type><![CDATA[sand dune]]></soil_type>
+		<geology><![CDATA[Pleistocene to Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Rudosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Foster]]></suburbs>
+		<postcode><![CDATA[3960]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[French Island]]></suburbs>
+		<postcode><![CDATA[3921]]></postcode>
+		<soil_type><![CDATA[Nyora]]></soil_type>
+		<geology><![CDATA[Pleistocene to Recent aeolian sediments]]></geology>
+		<dominantsoil><![CDATA[Aeric Podosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.7]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Fumina]]></suburbs>
+		<postcode><![CDATA[3825]]></postcode>
+		<soil_type><![CDATA[Jindivick]]></soil_type>
+		<geology><![CDATA[Devonian granites]]></geology>
+		<dominantsoil><![CDATA[Dark brownish grey or grey sandy loams]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Glen Forbes]]></suburbs>
+		<postcode><![CDATA[3990]]></postcode>
+		<soil_type><![CDATA[French Island]]></soil_type>
+		<geology><![CDATA[Pleistocene to Recent aeolian sediments]]></geology>
+		<dominantsoil><![CDATA[Aeric and Aquic Podosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Glengarry]]></suburbs>
+		<postcode><![CDATA[3854]]></postcode>
+		<soil_type><![CDATA[Yinnar]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) sediments]]></geology>
+		<dominantsoil><![CDATA[Brown Dermosols and Vertosols]]></dominantsoil>
+		<soil_ph><![CDATA[6]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Grantville]]></suburbs>
+		<postcode><![CDATA[3984]]></postcode>
+		<soil_type><![CDATA[Monomeith with sandy rises]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) sediments]]></geology>
+		<dominantsoil><![CDATA[Grey, Yellow and Brown Sodosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Hallora]]></suburbs>
+		<postcode><![CDATA[3818]]></postcode>
+		<soil_type><![CDATA[Ripplebrook]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Redoxic Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Hallston]]></suburbs>
+		<postcode><![CDATA[3953]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Hazel Park]]></suburbs>
+		<postcode><![CDATA[3966]]></postcode>
+		<soil_type><![CDATA[Agnes]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) to recent alluvium & colluvium]]></geology>
+		<dominantsoil><![CDATA[Yellow Kandosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Hazelwood]]></suburbs>
+		<postcode><![CDATA[3840]]></postcode>
+		<soil_type><![CDATA[Boolarra with Morwell]]></soil_type>
+		<geology><![CDATA[Tertiary (Pliocene) sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Yellow and Grey Dermosols & Kurosols/Acidic Yellow and Grey Kurosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Hedley]]></suburbs>
+		<postcode><![CDATA[3967]]></postcode>
+		<soil_type><![CDATA[Agnes]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) to recent alluvium & colluvium]]></geology>
+		<dominantsoil><![CDATA[Yellow Kandosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Hill End]]></suburbs>
+		<postcode><![CDATA[3825]]></postcode>
+		<soil_type><![CDATA[Jindivick]]></soil_type>
+		<geology><![CDATA[Devonian granites]]></geology>
+		<dominantsoil><![CDATA[Dark brownish grey or grey sandy loams]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Icy Creek]]></suburbs>
+		<postcode><![CDATA[3833]]></postcode>
+		<soil_type><![CDATA[Jindivick]]></soil_type>
+		<geology><![CDATA[Devonian granites]]></geology>
+		<dominantsoil><![CDATA[Dark brownish grey or grey sandy loams]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Inverloch]]></suburbs>
+		<postcode><![CDATA[3996]]></postcode>
+		<soil_type><![CDATA[riverine]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Jam Jerrup]]></suburbs>
+		<postcode><![CDATA[3984]]></postcode>
+		<soil_type><![CDATA[Monomeith with sandy rises]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) sediments]]></geology>
+		<dominantsoil><![CDATA[Grey, Yellow and Brown Sodosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Jeeralang]]></suburbs>
+		<postcode><![CDATA[3840]]></postcode>
+		<soil_type><![CDATA[Boolarra with Morwell]]></soil_type>
+		<geology><![CDATA[Tertiary (Pliocene) sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Yellow and Grey Dermosols & Kurosols/Acidic Yellow and Grey Kurosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Jeeralang Junction]]></suburbs>
+		<postcode><![CDATA[3840]]></postcode>
+		<soil_type><![CDATA[Boolarra with Morwell]]></soil_type>
+		<geology><![CDATA[Tertiary (Pliocene) sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Yellow and Grey Dermosols & Kurosols/Acidic Yellow and Grey Kurosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Jeetho]]></suburbs>
+		<postcode><![CDATA[3945]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Jindivick]]></suburbs>
+		<postcode><![CDATA[3818]]></postcode>
+		<soil_type><![CDATA[Ripplebrook]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Redoxic Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Jumbuk]]></suburbs>
+		<postcode><![CDATA[3869]]></postcode>
+		<soil_type><![CDATA[Boolarra with Morwell]]></soil_type>
+		<geology><![CDATA[Tertiary (Pliocene) sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Yellow and Grey Dermosols & Kurosols/Acidic Yellow and Grey Kurosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Jumbunna]]></suburbs>
+		<postcode><![CDATA[3951]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Kardella]]></suburbs>
+		<postcode><![CDATA[3951]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Kernot]]></suburbs>
+		<postcode><![CDATA[3979]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Kilcunda]]></suburbs>
+		<postcode><![CDATA[3995]]></postcode>
+		<soil_type><![CDATA[Leongatha Sth]]></soil_type>
+		<geology><![CDATA[Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Humose-Acidic, Dermosolic, Redoxic HYDROSOL]]></dominantsoil>
+		<soil_ph><![CDATA[5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Kongwak]]></suburbs>
+		<postcode><![CDATA[3951]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Koonwarra]]></suburbs>
+		<postcode><![CDATA[3954]]></postcode>
+		<soil_type><![CDATA[Koonwarra]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Yellow and Grey Sodosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.7]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Koornalla]]></suburbs>
+		<postcode><![CDATA[3844]]></postcode>
+		<soil_type><![CDATA[sand dune]]></soil_type>
+		<geology><![CDATA[Pleistocene to Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Rudosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Korumburra]]></suburbs>
+		<postcode><![CDATA[3950]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Krowera]]></suburbs>
+		<postcode><![CDATA[3945]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Labertouche]]></suburbs>
+		<postcode><![CDATA[3816]]></postcode>
+		<soil_type><![CDATA[Narre]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) to Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Yellow and Grey Sodosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Lardner]]></suburbs>
+		<postcode><![CDATA[3821]]></postcode>
+		<soil_type><![CDATA[riverine]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Leongatha]]></suburbs>
+		<postcode><![CDATA[3953]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Lillico]]></suburbs>
+		<postcode><![CDATA[3820]]></postcode>
+		<soil_type><![CDATA[Warragul]]></soil_type>
+		<geology><![CDATA[Tertiary Basalts]]></geology>
+		<dominantsoil><![CDATA[Acidic Red Ferrosols]]></dominantsoil>
+		<soil_ph><![CDATA[6.1]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Loch]]></suburbs>
+		<postcode><![CDATA[3945]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Longwarry]]></suburbs>
+		<postcode><![CDATA[3816]]></postcode>
+		<soil_type><![CDATA[Narre]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) to Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Yellow and Grey Sodosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Mardan]]></suburbs>
+		<postcode><![CDATA[3953]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[McMahons Creek]]></suburbs>
+		<postcode><![CDATA[3799]]></postcode>
+		<soil_type><![CDATA[Warragul ]]></soil_type>
+		<geology><![CDATA[Tertiary basalts & Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Red Ferrosols ]]></dominantsoil>
+		<soil_ph><![CDATA[6.1]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Meeniyan]]></suburbs>
+		<postcode><![CDATA[3956]]></postcode>
+		<soil_type><![CDATA[Inverloch]]></soil_type>
+		<geology><![CDATA[Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Parapanic Podosols with Grey Kurosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.3]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Mirboo]]></suburbs>
+		<postcode><![CDATA[3871]]></postcode>
+		<soil_type><![CDATA[Silver Creek with Warragul]]></soil_type>
+		<geology><![CDATA[Tertiary sediments & Tertiary basalts]]></geology>
+		<dominantsoil><![CDATA[ Brown and Yellow Kandosols or Dermosols ]]></dominantsoil>
+		<soil_ph><![CDATA[6.1]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Mirboo North]]></suburbs>
+		<postcode><![CDATA[3871]]></postcode>
+		<soil_type><![CDATA[Silver Creek with Warragul]]></soil_type>
+		<geology><![CDATA[Tertiary sediments & Tertiary basalts]]></geology>
+		<dominantsoil><![CDATA[ Brown and Yellow Kandosols or Dermosols ]]></dominantsoil>
+		<soil_ph><![CDATA[6.1]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Modella]]></suburbs>
+		<postcode><![CDATA[3816]]></postcode>
+		<soil_type><![CDATA[Narre]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) to Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Yellow and Grey Sodosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Moe]]></suburbs>
+		<postcode><![CDATA[3825]]></postcode>
+		<soil_type><![CDATA[Moe ]]></soil_type>
+		<geology><![CDATA[Recent alluvium]]></geology>
+		<dominantsoil><![CDATA[heavy clay loams]]></dominantsoil>
+		<soil_ph><![CDATA[7]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Morwell]]></suburbs>
+		<postcode><![CDATA[3840]]></postcode>
+		<soil_type><![CDATA[Boolarra with Morwell]]></soil_type>
+		<geology><![CDATA[Tertiary (Pliocene) sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Yellow and Grey Dermosols & Kurosols/Acidic Yellow and Grey Kurosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Narracan]]></suburbs>
+		<postcode><![CDATA[3824]]></postcode>
+		<soil_type><![CDATA[Yarragon]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) sediments]]></geology>
+		<dominantsoil><![CDATA[Brown Dermosols and Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[6.2]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Nayook]]></suburbs>
+		<postcode><![CDATA[3832]]></postcode>
+		<soil_type><![CDATA[Warragul with Nerrim South]]></soil_type>
+		<geology><![CDATA[Tertiary Basalts]]></geology>
+		<dominantsoil><![CDATA[Acidic Red Ferrosols ]]></dominantsoil>
+		<soil_ph><![CDATA[6.1]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Neerim]]></suburbs>
+		<postcode><![CDATA[3831]]></postcode>
+		<soil_type><![CDATA[Warragul with Nerrim South]]></soil_type>
+		<geology><![CDATA[Tertiary Basalts]]></geology>
+		<dominantsoil><![CDATA[Acidic Red Ferrosols]]></dominantsoil>
+		<soil_ph><![CDATA[6.1]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Neerim South]]></suburbs>
+		<postcode><![CDATA[3831]]></postcode>
+		<soil_type><![CDATA[Warragul with Nerrim South]]></soil_type>
+		<geology><![CDATA[Tertiary Basalts]]></geology>
+		<dominantsoil><![CDATA[Acidic Red Ferrosols]]></dominantsoil>
+		<soil_ph><![CDATA[6.1]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Newborough]]></suburbs>
+		<postcode><![CDATA[3825]]></postcode>
+		<soil_type><![CDATA[Narre]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) to Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Yellow and Grey Sodosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Newhaven]]></suburbs>
+		<postcode><![CDATA[3925]]></postcode>
+		<soil_type><![CDATA[Yinnar]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) sediments]]></geology>
+		<dominantsoil><![CDATA[Brown Dermosols and Vertosols]]></dominantsoil>
+		<soil_ph><![CDATA[6]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Nilma]]></suburbs>
+		<postcode><![CDATA[3821]]></postcode>
+		<soil_type><![CDATA[riverine]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Nilma North]]></suburbs>
+		<postcode><![CDATA[3821]]></postcode>
+		<soil_type><![CDATA[riverine]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Noojee]]></suburbs>
+		<postcode><![CDATA[3833]]></postcode>
+		<soil_type><![CDATA[Jindivick]]></soil_type>
+		<geology><![CDATA[Devonian granites]]></geology>
+		<dominantsoil><![CDATA[Dark brownish grey or grey sandy loams]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[North Wonthaggi]]></suburbs>
+		<postcode><![CDATA[3995]]></postcode>
+		<soil_type><![CDATA[Leongatha Sth]]></soil_type>
+		<geology><![CDATA[Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Humose-Acidic, Dermosolic, Redoxic HYDROSOL]]></dominantsoil>
+		<soil_ph><![CDATA[5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Nyora]]></suburbs>
+		<postcode><![CDATA[3987]]></postcode>
+		<soil_type><![CDATA[Athlone]]></soil_type>
+		<geology><![CDATA[Mostly Cretaceous, some Tert & Paleozoic seds]]></geology>
+		<dominantsoil><![CDATA[Acidic Yellow Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Outtrim]]></suburbs>
+		<postcode><![CDATA[3951]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Piedmont]]></suburbs>
+		<postcode><![CDATA[3833]]></postcode>
+		<soil_type><![CDATA[Jindivick]]></soil_type>
+		<geology><![CDATA[Devonian granites]]></geology>
+		<dominantsoil><![CDATA[Dark brownish grey or grey sandy loams]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Pioneer Bay]]></suburbs>
+		<postcode><![CDATA[3984]]></postcode>
+		<soil_type><![CDATA[Monomeith with sandy rises]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) sediments]]></geology>
+		<dominantsoil><![CDATA[Grey, Yellow and Brown Sodosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Poowong]]></suburbs>
+		<postcode><![CDATA[3988]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Port Franklin]]></suburbs>
+		<postcode><![CDATA[3964]]></postcode>
+		<soil_type><![CDATA[Agnes]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) to recent alluvium & colluvium]]></geology>
+		<dominantsoil><![CDATA[Yellow Kandosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Port Welshpool]]></suburbs>
+		<postcode><![CDATA[3965]]></postcode>
+		<soil_type><![CDATA[Leongatha Sth]]></soil_type>
+		<geology><![CDATA[Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Humose-Acidic, Dermosolic, Redoxic HYDROSOL]]></dominantsoil>
+		<soil_ph><![CDATA[5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Ranceby]]></suburbs>
+		<postcode><![CDATA[3951]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Rawson]]></suburbs>
+		<postcode><![CDATA[3825]]></postcode>
+		<soil_type><![CDATA[riverine]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Rhyll]]></suburbs>
+		<postcode><![CDATA[3923]]></postcode>
+		<soil_type><![CDATA[Red Hill]]></soil_type>
+		<geology><![CDATA[Tertiary  Basalts]]></geology>
+		<dominantsoil><![CDATA[Red Chromosol]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Rokeby]]></suburbs>
+		<postcode><![CDATA[3821]]></postcode>
+		<soil_type><![CDATA[riverine]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Ruby]]></suburbs>
+		<postcode><![CDATA[3953]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[San Remo]]></suburbs>
+		<postcode><![CDATA[3925]]></postcode>
+		<soil_type><![CDATA[Koonwarra]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Brown Kurosols ]]></dominantsoil>
+		<soil_ph><![CDATA[5.7]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Sandy Point]]></suburbs>
+		<postcode><![CDATA[3959]]></postcode>
+		<soil_type><![CDATA[sand dune]]></soil_type>
+		<geology><![CDATA[Pleistocene to Recent aeolian sediments]]></geology>
+		<dominantsoil><![CDATA[Aeric Podosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Shady Creek]]></suburbs>
+		<postcode><![CDATA[3821]]></postcode>
+		<soil_type><![CDATA[riverine]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Silverleaves]]></suburbs>
+		<postcode><![CDATA[3922]]></postcode>
+		<soil_type><![CDATA[riverine]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[South Dudley]]></suburbs>
+		<postcode><![CDATA[3995]]></postcode>
+		<soil_type><![CDATA[Leongatha Sth]]></soil_type>
+		<geology><![CDATA[Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Humose-Acidic, Dermosolic, Redoxic HYDROSOL]]></dominantsoil>
+		<soil_ph><![CDATA[5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Stony Creek]]></suburbs>
+		<postcode><![CDATA[3371]]></postcode>
+		<soil_type><![CDATA[Koonwarra]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Brown Kurosols ]]></dominantsoil>
+		<soil_ph><![CDATA[5.7]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Stony Creek]]></suburbs>
+		<postcode><![CDATA[3957]]></postcode>
+		<soil_type><![CDATA[Koonwarra]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Brown Kurosols ]]></dominantsoil>
+		<soil_ph><![CDATA[5.7]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Strzelecki]]></suburbs>
+		<postcode><![CDATA[3950]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Sunderland Bay]]></suburbs>
+		<postcode><![CDATA[3922]]></postcode>
+		<soil_type><![CDATA[Phillip Island]]></soil_type>
+		<geology><![CDATA[Tertiary basalts]]></geology>
+		<dominantsoil><![CDATA[Red Chromosol ]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Sunset Strip]]></suburbs>
+		<postcode><![CDATA[3922]]></postcode>
+		<soil_type><![CDATA[Phillip Island]]></soil_type>
+		<geology><![CDATA[Tertiary basalts]]></geology>
+		<dominantsoil><![CDATA[Red Chromosol ]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Surf Beach]]></suburbs>
+		<postcode><![CDATA[3922]]></postcode>
+		<soil_type><![CDATA[Phillip Island]]></soil_type>
+		<geology><![CDATA[Tertiary basalts]]></geology>
+		<dominantsoil><![CDATA[Red Chromosol ]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Tanjil Bren]]></suburbs>
+		<postcode><![CDATA[3833]]></postcode>
+		<soil_type><![CDATA[Jindivick]]></soil_type>
+		<geology><![CDATA[Devonian granites]]></geology>
+		<dominantsoil><![CDATA[Dark brownish grey or grey sandy loams]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Tanjil South]]></suburbs>
+		<postcode><![CDATA[3825]]></postcode>
+		<soil_type><![CDATA[Jindivick]]></soil_type>
+		<geology><![CDATA[Devonian granites]]></geology>
+		<dominantsoil><![CDATA[Dark brownish grey or grey sandy loams]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Tarwin]]></suburbs>
+		<postcode><![CDATA[3956]]></postcode>
+		<soil_type><![CDATA[Inverloch]]></soil_type>
+		<geology><![CDATA[Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Parapanic Podosols with Grey Kurosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.3]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Tarwin Lower]]></suburbs>
+		<postcode><![CDATA[3956]]></postcode>
+		<soil_type><![CDATA[Inverloch]]></soil_type>
+		<geology><![CDATA[Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Parapanic Podosols with Grey Kurosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.3]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Tenby Point]]></suburbs>
+		<postcode><![CDATA[3984]]></postcode>
+		<soil_type><![CDATA[Monomeith with sandy rises]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) sediments]]></geology>
+		<dominantsoil><![CDATA[Grey, Yellow and Brown Sodosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[The Gurdies]]></suburbs>
+		<postcode><![CDATA[3984]]></postcode>
+		<soil_type><![CDATA[Monomeith with sandy rises]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) sediments]]></geology>
+		<dominantsoil><![CDATA[Grey, Yellow and Brown Sodosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Thorpdale]]></suburbs>
+		<postcode><![CDATA[3835]]></postcode>
+		<soil_type><![CDATA[Warragul]]></soil_type>
+		<geology><![CDATA[Tertiary Basalts]]></geology>
+		<dominantsoil><![CDATA[Acidic Red Ferrosols]]></dominantsoil>
+		<soil_ph><![CDATA[6.1]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Toongabbie]]></suburbs>
+		<postcode><![CDATA[3856]]></postcode>
+		<soil_type><![CDATA[Toongabbie]]></soil_type>
+		<geology><![CDATA[Pleistocene (Qp5) sediments]]></geology>
+		<dominantsoil><![CDATA[Yellow and Brown Sodosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.2]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Toora]]></suburbs>
+		<postcode><![CDATA[3962]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Torwood]]></suburbs>
+		<postcode><![CDATA[3821]]></postcode>
+		<soil_type><![CDATA[riverine]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Trafalgar]]></suburbs>
+		<postcode><![CDATA[3824]]></postcode>
+		<soil_type><![CDATA[Yarragon]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) sediments]]></geology>
+		<dominantsoil><![CDATA[Brown Dermosols and Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[6.2]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Trafalgar East]]></suburbs>
+		<postcode><![CDATA[3824]]></postcode>
+		<soil_type><![CDATA[Yarragon]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) sediments]]></geology>
+		<dominantsoil><![CDATA[Brown Dermosols and Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[6.2]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Trafalgar South]]></suburbs>
+		<postcode><![CDATA[3824]]></postcode>
+		<soil_type><![CDATA[Yarragon]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) sediments]]></geology>
+		<dominantsoil><![CDATA[Brown Dermosols and Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[6.2]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Traralgon]]></suburbs>
+		<postcode><![CDATA[3844]]></postcode>
+		<soil_type><![CDATA[sand dune]]></soil_type>
+		<geology><![CDATA[Pleistocene to Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Rudosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Traralgon South]]></suburbs>
+		<postcode><![CDATA[3844]]></postcode>
+		<soil_type><![CDATA[sand dune]]></soil_type>
+		<geology><![CDATA[Pleistocene to Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Rudosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Trida]]></suburbs>
+		<postcode><![CDATA[3953]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Turtons Creek]]></suburbs>
+		<postcode><![CDATA[3960]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Tyers]]></suburbs>
+		<postcode><![CDATA[3844]]></postcode>
+		<soil_type><![CDATA[sand dune]]></soil_type>
+		<geology><![CDATA[Pleistocene to Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Rudosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Ventnor]]></suburbs>
+		<postcode><![CDATA[3922]]></postcode>
+		<soil_type><![CDATA[Yinnar]]></soil_type>
+		<geology><![CDATA[Late Pleistocene alluvial sediments]]></geology>
+		<dominantsoil><![CDATA[Brown and Grey Chromosols ]]></dominantsoil>
+		<soil_ph><![CDATA[6]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Venus Bay]]></suburbs>
+		<postcode><![CDATA[3956]]></postcode>
+		<soil_type><![CDATA[Inverloch]]></soil_type>
+		<geology><![CDATA[Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Parapanic Podosols with Grey Kurosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.3]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Vesper]]></suburbs>
+		<postcode><![CDATA[3833]]></postcode>
+		<soil_type><![CDATA[Jindivick]]></soil_type>
+		<geology><![CDATA[Devonian granites]]></geology>
+		<dominantsoil><![CDATA[Dark brownish grey or grey sandy loams]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Walhalla]]></suburbs>
+		<postcode><![CDATA[3825]]></postcode>
+		<soil_type><![CDATA[Yinnar]]></soil_type>
+		<geology><![CDATA[Late Pleistocene alluvial sediments]]></geology>
+		<dominantsoil><![CDATA[Brown and Grey Chromosols]]></dominantsoil>
+		<soil_ph><![CDATA[6]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Walkerville]]></suburbs>
+		<postcode><![CDATA[3956]]></postcode>
+		<soil_type><![CDATA[Inverloch]]></soil_type>
+		<geology><![CDATA[Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Parapanic Podosols with Grey Kurosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.3]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Waratah Bay]]></suburbs>
+		<postcode><![CDATA[3959]]></postcode>
+		<soil_type><![CDATA[sand dune]]></soil_type>
+		<geology><![CDATA[Pleistocene to Recent aeolian sediments]]></geology>
+		<dominantsoil><![CDATA[Aeric Podosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Warragul]]></suburbs>
+		<postcode><![CDATA[3820]]></postcode>
+		<soil_type><![CDATA[Warragul]]></soil_type>
+		<geology><![CDATA[Tertiary Basalts]]></geology>
+		<dominantsoil><![CDATA[Acidic Red Ferrosols]]></dominantsoil>
+		<soil_ph><![CDATA[6.1]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Wattle Bank]]></suburbs>
+		<postcode><![CDATA[3995]]></postcode>
+		<soil_type><![CDATA[Leongatha Sth]]></soil_type>
+		<geology><![CDATA[Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Humose-Acidic, Dermosolic, Redoxic HYDROSOL]]></dominantsoil>
+		<soil_ph><![CDATA[5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Welshpool]]></suburbs>
+		<postcode><![CDATA[3966]]></postcode>
+		<soil_type><![CDATA[Agnes]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) to recent alluvium & colluvium]]></geology>
+		<dominantsoil><![CDATA[Yellow Kandosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[West Creek]]></suburbs>
+		<postcode><![CDATA[3992]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Westbury]]></suburbs>
+		<postcode><![CDATA[3825]]></postcode>
+		<soil_type><![CDATA[riverine]]></soil_type>
+		<geology><![CDATA[Recent sediments]]></geology>
+		<dominantsoil><![CDATA[Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Willow Grove]]></suburbs>
+		<postcode><![CDATA[3825]]></postcode>
+		<soil_type><![CDATA[Darnum]]></soil_type>
+		<geology><![CDATA[Quaternary alluvial deposits (derived from Baw Baw) overlying Tertiary sandstone.]]></geology>
+		<dominantsoil><![CDATA[Brown podzolic]]></dominantsoil>
+		<soil_ph><![CDATA[5.8]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Wimbledon Heights]]></suburbs>
+		<postcode><![CDATA[3922]]></postcode>
+		<soil_type><![CDATA[sand dune]]></soil_type>
+		<geology><![CDATA[Pleistocene to Recent aeolian sediments]]></geology>
+		<dominantsoil><![CDATA[Aeric Podosols]]></dominantsoil>
+		<soil_ph><![CDATA[4.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Wonga]]></suburbs>
+		<postcode><![CDATA[3960]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Wonthaggi]]></suburbs>
+		<postcode><![CDATA[3995]]></postcode>
+		<soil_type><![CDATA[Leongatha Sth]]></soil_type>
+		<geology><![CDATA[Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Humose-Acidic, Dermosolic, Redoxic HYDROSOL]]></dominantsoil>
+		<soil_ph><![CDATA[5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Woodleigh]]></suburbs>
+		<postcode><![CDATA[3945]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Woolamai]]></suburbs>
+		<postcode><![CDATA[3995]]></postcode>
+		<soil_type><![CDATA[Leongatha Sth]]></soil_type>
+		<geology><![CDATA[Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Humose-Acidic, Dermosolic, Redoxic HYDROSOL]]></dominantsoil>
+		<soil_ph><![CDATA[5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Yallourn]]></suburbs>
+		<postcode><![CDATA[3825]]></postcode>
+		<soil_type><![CDATA[Inverloch]]></soil_type>
+		<geology><![CDATA[Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Humose-Acidic, Dermosolic, Redoxic HYDROSOL]]></dominantsoil>
+		<soil_ph><![CDATA[5.3]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Yallourn North]]></suburbs>
+		<postcode><![CDATA[3825]]></postcode>
+		<soil_type><![CDATA[Inverloch]]></soil_type>
+		<geology><![CDATA[Tertiary sediments]]></geology>
+		<dominantsoil><![CDATA[Humose-Acidic, Dermosolic, Redoxic HYDROSOL]]></dominantsoil>
+		<soil_ph><![CDATA[5.3]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Yanakie]]></suburbs>
+		<postcode><![CDATA[3960]]></postcode>
+		<soil_type><![CDATA[Strzelecki]]></soil_type>
+		<geology><![CDATA[Cretaceous sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Grey, Yellow and Brown Dermosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.9]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Yarragon]]></suburbs>
+		<postcode><![CDATA[3823]]></postcode>
+		<soil_type><![CDATA[Yarragon]]></soil_type>
+		<geology><![CDATA[Pleistocene (late) sediments]]></geology>
+		<dominantsoil><![CDATA[Brown Dermosols and Hydrosols]]></dominantsoil>
+		<soil_ph><![CDATA[6.2]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Yinnar]]></suburbs>
+		<postcode><![CDATA[3869]]></postcode>
+		<soil_type><![CDATA[Boolarra with Morwell]]></soil_type>
+		<geology><![CDATA[Tertiary (Pliocene) sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Yellow and Grey Dermosols & Kurosols/Acidic Yellow and Grey Kurosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+	<node>
+		<suburbs><![CDATA[Yinnar South]]></suburbs>
+		<postcode><![CDATA[3869]]></postcode>
+		<soil_type><![CDATA[Boolarra with Morwell]]></soil_type>
+		<geology><![CDATA[Tertiary (Pliocene) sediments]]></geology>
+		<dominantsoil><![CDATA[Acidic Yellow and Grey Dermosols & Kurosols/Acidic Yellow and Grey Kurosols]]></dominantsoil>
+		<soil_ph><![CDATA[5.5]]></soil_ph>
+	</node>
+</data>
